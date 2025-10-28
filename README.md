@@ -1,1 +1,1 @@
-Tree sort and bubble sort in C
+Tree sort and Bubble sort in C
